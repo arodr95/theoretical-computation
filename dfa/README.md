@@ -8,7 +8,7 @@ The pdf, project1, contains the project description as well as a screenshot of t
 
 ## Run the Code
 1. Verify JDK (15.0.1+) is installed
-	java -version
+    java -version
 
 2. Navigate to src of unzipped contents
 	cd ~/project1/src
