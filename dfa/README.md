@@ -13,7 +13,7 @@ java -version
 ```
 2. Navigate to src of unzipped contents
 ```
-cd ~/project1/src
+cd ~/theoretical-computation/dfa/src
 ```
 3. Compile Main.java
 ```
