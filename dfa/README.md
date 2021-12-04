@@ -1,4 +1,4 @@
-# CSC 4890 PROJECT 1 - DFA
+# Deterministic Finite Automata Project
 
 ## Description
 This project is for the creation of the DFA, M = ({s, q1, q2, r1, r2}, {a, b}, delta, {s}, {q1, r1}), where delta is the transition function depicted in the drawing for the project assignment. 
